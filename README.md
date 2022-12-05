@@ -1,2 +1,1 @@
-# blurryLoadingPage
- blurryLoadingPage
+Following along with https://www.youtube.com/@TraversyMedia. I claim nothing from this other than I want to become a better teacher and developer. 
